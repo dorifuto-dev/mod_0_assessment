@@ -1,0 +1,10 @@
+var movie = "Bill and Ted's Excellent Adventure";
+var isIntertaining = true;
+movie = "Dude where's my car?";
+var num4 = 22;
+var num6 = 12;
+var product = num4 * num6;
+var favoriteFoods = ["Empanada", "Kalbi", "Tacos"];
+favoriteFoods.shift();
+var n = movie.length;
+console.log(n);
